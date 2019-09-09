@@ -1,0 +1,29 @@
+body{
+    background-color: gray;
+}
+
+.item{
+    height: 50px;
+    display: grid;
+    background-color: blue;
+    grid-auto-rows: 100px;
+    border: 3px solid white;
+}
+
+aside{
+    display: grid;
+    text-align: right;
+
+}
+
+footer{
+
+}
+
+
+
+
+
+
+
+
